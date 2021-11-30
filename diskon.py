@@ -7,4 +7,4 @@ def diskon(total_harga):
         diskon =0
     return diskon
 
-disc = diskon(80000)
+disc = diskon(70000)
