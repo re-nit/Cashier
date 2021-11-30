@@ -1,0 +1,6 @@
+def total_harga_barang(items*):
+	total = 0
+	for harga_item in items:
+		total += item
+
+	return total
